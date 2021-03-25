@@ -1,5 +1,7 @@
 For support questions, please send them to the following support mailing list:
 
+Edit to trigger SonarCloud
+
 - ngs-amsupport@thermofisher.com (Americas)
 - ngs-eusupport@thermofisher.com (EMEA)
 - ngs-gcsupport@thermofisher.com (Greater China)
